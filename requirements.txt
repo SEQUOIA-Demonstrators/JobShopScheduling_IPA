@@ -49,7 +49,7 @@ PySocks==1.7.1
 python-constraint==1.4.0
 pytz==2022.1
 PyWavelets==1.2.0
-pywin32==303
+#pywin32==303
 PyYAML==6.0
 qiskit==0.36.2
 qiskit-aer==0.10.4
